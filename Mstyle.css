@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+     margin-left: 150px;
+     margin-top: 50px;
+}
+
+#grid{
+    /* display: flex; */
+    height: 300;
+    width: 400;
+    display: flex;
+    flex-wrap: wrap;
+}
